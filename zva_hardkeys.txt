@@ -1,0 +1,109 @@
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+'Group Softkeys
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Const SK_1="{F2}"
+Const SK_2="{F3}"
+Const SK_3="{F5}"
+Const SK_4="{F7}"
+Const SK_5="{F8}"
+Const SK_6="{F9}"
+Const SK_7="{F11}"
+Const SK_8="{F12}"
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+'Group Trace
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Const HK_Meas="%+a"
+Const HK_Format="%+b"
+Const HK_Scale="%+c"
+Const HK_TraceSel="%+d"
+Const HK_Lines="%+e"
+Const HK_TraceFunc="%+f"
+Const HK_Marker="%+g"
+Const HK_Search="%+h"
+Const HK_MarkerFunc="%+i"
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+'Group Channel
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Const HK_Start="%+j"
+Const HK_Center="%+j"
+Const HK_Stop="%+k"
+Const HK_Span="%+k"
+Const HK_Power="%+l"
+Const HK_Sweep="%+m"
+Const HK_Mode="%+n"
+Const HK_ChanSel="%+o"
+Const HK_Cal="%+p"
+Const HK_Offset="%+q"
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+'Group Display
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Const HK_AreaSel="%+r"
+Const HK_DispConfig="%+s"
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+'Group System
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Const HK_Save="^s"
+Const HK_Recall="^o" Ctrl o
+Const HK_SysConfig="%+t" Alt ShiftLock t
+Const HK_Preset="%+u"
+Const HK_MeasWizard="%+v"
+Const HK_Print="^p"
+Const HK_File="%f"
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+'Group Navigation
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Const HK_Tab="{TAB}"
+Const HK_ShiftTab="+{TAB}"
+Const HK_Up="{UP}"
+Const HK_Down="{DOWN}"
+Const HK_Left="{LEFT}"
+Const HK_Right="{RIGHT}"
+Const HK_Enter="~"
+Const HK_Ok="~"
+Const HK_CheckSym=" "
+Const HK_Space=" "
+Const HK_Esc="{ESC}"
+Const HK_Cancel="{ESC}"
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+'Group Support
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+'Group Data Entry
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+
+Const HK_1="1"
+Const HK_2="2"
+Const HK_3="3"
+Const HK_4="4"
+Const HK_5="5"
+Const HK_6="6"
+Const HK_7="7"
+Const HK_8="8"
+Const HK_9="9"
+Const HK_0="0"
+
+Const HK_Gn="g"
+Const HK_Mu="m"
+Const HK_km="k"
+
+Const HK_Decimal="{.}"
+Const HK_Subtract="{-}"
+Const HK_x1="~"  Enter
+Const HK_Back="{BACKSPACE}"
+
+
+Const HK_StepSize="s"

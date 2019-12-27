@@ -1,0 +1,35 @@
+
+
+GUI to configure which traces are displayed
+What the trace is relative to should be configurable
+Choose which diagram the trace is assigned to
+
+Button to switch to CW mode for spectrum check with spectrum analyzer
+
+Fix look/feel of entry in softkey menu
+
+Fix behaviour when ZVAEntry looses focus
+
+Check ALC + pulse modulation interaction
+
+Power leveleing at DUT output
+
+Indication of actual receiver power levels, for linearity purpouse.
+
+Gör om MinimizedWindow till en toolbar istället, så att den smälter in.
+
+Set valid frequency on port 2 and 4.
+Set unused port to "Not measured"
+Set correct frequency on power sensors
+
+
+#### Reminders ####
+
+Robocopy command
+robocopy main "\\ZVA-100217\Nwa\External Tools\IM_sweep" /MIR
+
+
+## Completed ##
+Stepsize dialog is show outside of screen on ZVA
+
+Always show the "Minimized window", so that the GUI can be restored when focus is lost
